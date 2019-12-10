@@ -1,0 +1,94 @@
+altair\.HConcatChart
+====================
+
+.. currentmodule:: altair
+
+.. autoclass:: HConcatChart
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~HConcatChart.__init__
+      ~HConcatChart.add_selection
+      ~HConcatChart.configure
+      ~HConcatChart.configure_area
+      ~HConcatChart.configure_axis
+      ~HConcatChart.configure_axisBand
+      ~HConcatChart.configure_axisBottom
+      ~HConcatChart.configure_axisLeft
+      ~HConcatChart.configure_axisRight
+      ~HConcatChart.configure_axisTop
+      ~HConcatChart.configure_axisX
+      ~HConcatChart.configure_axisY
+      ~HConcatChart.configure_bar
+      ~HConcatChart.configure_boxplot
+      ~HConcatChart.configure_circle
+      ~HConcatChart.configure_concat
+      ~HConcatChart.configure_errorband
+      ~HConcatChart.configure_errorbar
+      ~HConcatChart.configure_facet
+      ~HConcatChart.configure_geoshape
+      ~HConcatChart.configure_header
+      ~HConcatChart.configure_headerColumn
+      ~HConcatChart.configure_headerFacet
+      ~HConcatChart.configure_headerRow
+      ~HConcatChart.configure_legend
+      ~HConcatChart.configure_line
+      ~HConcatChart.configure_mark
+      ~HConcatChart.configure_point
+      ~HConcatChart.configure_projection
+      ~HConcatChart.configure_range
+      ~HConcatChart.configure_rect
+      ~HConcatChart.configure_repeat
+      ~HConcatChart.configure_rule
+      ~HConcatChart.configure_scale
+      ~HConcatChart.configure_selection
+      ~HConcatChart.configure_square
+      ~HConcatChart.configure_text
+      ~HConcatChart.configure_tick
+      ~HConcatChart.configure_title
+      ~HConcatChart.configure_trail
+      ~HConcatChart.configure_view
+      ~HConcatChart.copy
+      ~HConcatChart.display
+      ~HConcatChart.from_dict
+      ~HConcatChart.from_json
+      ~HConcatChart.project
+      ~HConcatChart.properties
+      ~HConcatChart.repeat
+      ~HConcatChart.resolve_axis
+      ~HConcatChart.resolve_legend
+      ~HConcatChart.resolve_references
+      ~HConcatChart.resolve_scale
+      ~HConcatChart.save
+      ~HConcatChart.savechart
+      ~HConcatChart.serve
+      ~HConcatChart.to_dict
+      ~HConcatChart.to_html
+      ~HConcatChart.to_json
+      ~HConcatChart.transform_aggregate
+      ~HConcatChart.transform_bin
+      ~HConcatChart.transform_calculate
+      ~HConcatChart.transform_filter
+      ~HConcatChart.transform_flatten
+      ~HConcatChart.transform_fold
+      ~HConcatChart.transform_impute
+      ~HConcatChart.transform_joinaggregate
+      ~HConcatChart.transform_lookup
+      ~HConcatChart.transform_sample
+      ~HConcatChart.transform_stack
+      ~HConcatChart.transform_timeunit
+      ~HConcatChart.transform_window
+      ~HConcatChart.validate
+      ~HConcatChart.validate_property
+   
+   
+
+   
+   
+   
